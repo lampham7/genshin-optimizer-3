@@ -1,9 +1,0 @@
-{
-  "ShatteringIce": {
-    "cond": "Contra inimigos Congelados ou afetados por Cryo"
-  },
-  "SprawlingGreenery": {
-    "cond2ele": "Após desencadear as reações de Queimadura, Aceleração ou Florescimento",
-    "cond3ele": "Após desencadear as reações de Intensificação, Propagação, Superflorescimento ou Germinação"
-  }
-}
